@@ -40,7 +40,7 @@ li a {
 .active3:hover {
     background-color: #F7A8B8;
 }
-div {
+.divexpanding {
     width: 100px;
     height: 100px;
     transition: width 2s;
@@ -52,7 +52,7 @@ div {
 #div1 {background: #55CDFC;}
 #div2 {background: #FFFFFF;}
 #div3 {background: #F7A8B8;}
-div:hover {
+.divexpanding:hover {
     width: 600px;
 }
 body {
