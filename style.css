@@ -1,9 +1,12 @@
 body {
     background-image: url("https://pbs.twimg.com/media/FC1X36aaAAA6JHT?format=jpg&name=large");
-    height: 100%;
+    height: 100vh;
+    min-height: 500px;
+    width: 100%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    overflow: hidden;
 }
 .p1 {
     font-family: 'Didact Gothic';font-size: 18px;
