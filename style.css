@@ -1,5 +1,8 @@
 body {
     background-image: url("https://pbs.twimg.com/media/FC1X36aaAAA6JHT?format=jpg&name=large");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
     background-size: cover;
 }
 .p1 {
@@ -45,7 +48,7 @@ li a {
     background-color: #F7A8B8;
 }
 .divexpanding {
-    width: 100px;
+    width: 250px;
     height: 100px;
     transition: width 2s;
     transition-timing-function: ease;
